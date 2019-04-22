@@ -6,4 +6,4 @@ This is the server of the Yarpp.
 
 
 
-### Database settings can be done at '\src\main\resources'
+### Database settings can be configured at '\src\main\resources'
